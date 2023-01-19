@@ -27,19 +27,22 @@
     color:  var(--grayish-blue);
 }
 
+.text-area {
+    padding: .18em;
+}
+
 .content-area {
     padding: 1em;
     display: flex;
     margin: auto;
-    margin-top: 5vh;
+    margin-top: 5em;
     background-color: var(--white);
-    width: 250px;
-    height: 415px;
+    width: 17rem;
+    height: 30rem;
     border-radius: 1.2em;
     flex-direction: column;
     align-items: center;
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
     text-align: center;
-    /* justify-content: center; */
 }
